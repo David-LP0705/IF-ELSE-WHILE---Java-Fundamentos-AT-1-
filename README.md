@@ -30,4 +30,6 @@ O projeto conta com uma coleção de algoritmos focados em resolver problemas co
 1. Certifique-se de ter o **Java JDK** instalado no seu computador.
 2. Clone este repositório executando o comando abaixo no seu terminal:
    ```bash
-   git clone [https://github.com/David-LP0105/IF-ELSE-WHILE---Java-Fundamentos-AT-1-.git](https://github.com/David-LP0105/IF-ELSE-WHILE---Java-Fundamentos-AT-1-.git)
+git clone https://github.com/David-LP0705/Prova-Java---Vetores-2025.2.git
+```[cite: 3]
+
